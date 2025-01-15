@@ -87,7 +87,7 @@ DATABASES = {
     },
     "default":{
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'dev-db',
+        'NAME': 'mypoll',
         'USER': 'admin',
         'PASSWORD': 'zhelddydy!1',
         'HOST': 'dev-db.crciceyscrqp.ap-northeast-2.rds.amazonaws.com',
